@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * XDD - XDD, sXDDh 0XD
- * @XD: XDDDDDDDDD
+ *  main - print _putchar
+ * Return: 0
  */
 
 int main(void)
