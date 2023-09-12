@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * XDD - XDD, sXDDh 0XD
+ * print_alphabet - print all alphabet in lowercase
  * @XD: XDDDDDDDDD
  */
 
