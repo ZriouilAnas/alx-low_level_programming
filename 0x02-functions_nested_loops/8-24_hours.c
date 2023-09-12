@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * XDD - XDD, sXDDh 0XD
+ * @XD: XDDDDDDDDD
+ */
+
 void jack_bauer(void)
 {
 	int i, j;

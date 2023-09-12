@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * XDD - XDD, sXDDh 0XD
+ * @XD: XDDDDDDDDD
+ */
+
 void print_alphabet(void)
 {
 	char letter;

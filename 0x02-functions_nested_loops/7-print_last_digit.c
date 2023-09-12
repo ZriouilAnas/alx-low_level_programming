@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * XDD - XDD, sXDDh 0XD
+ * @XD: XDDDDDDDDD
+ */
+
 int print_last_digit(int n)
 {
 	int a;

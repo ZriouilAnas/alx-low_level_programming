@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * XDD - XDD, sXDDh 0XD
+ * @XD: XDDDDDDDDD
+ */
+
 void times_table(void)
 {
 	int i, j, k;

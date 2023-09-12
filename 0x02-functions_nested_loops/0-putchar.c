@@ -1,4 +1,10 @@
 #include "main.h"
+
+/**
+ * XDD - XDD, sXDDh 0XD
+ * @XD: XDDDDDDDDD
+ */
+
 int main(void)
 {
 _putchar('_');

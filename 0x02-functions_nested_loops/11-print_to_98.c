@@ -1,5 +1,12 @@
 #include <stdio.h>
 #include "main.h"
+
+/**
+ * print
+ * @
+ */
+
+
 void print_to_98(int n)
 {
 	int i, j;
